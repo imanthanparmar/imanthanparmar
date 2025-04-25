@@ -48,6 +48,6 @@
 <p align="center">
 
 <a href="https://twitter.com/Manthan_171"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:mmparmar17122000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.instagram.com/milu._1712/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a> 
+<a href="mailto:manthan.parmar@scaletech.xyz"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/manthan._paramar/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a> 
 </p>
